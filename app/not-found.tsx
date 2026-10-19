@@ -1,0 +1,1 @@
+export default function NotFound(){return <main className="setup-page"><p className="eyebrow">404</p><h1>Halaman tidak ditemukan.</h1><a className="button primary" href="/">Kembali ke portofolio</a></main>;}

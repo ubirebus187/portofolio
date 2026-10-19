@@ -1,0 +1,117 @@
+{
+  "profile": {
+    "headline": "Application Engineer & Full-Stack Developer",
+    "intro": "I build web applications, develop Roblox experiences, and support IT operations. My work connects business needs with structured technical solutions.",
+    "about": "My experience includes application development, testing, deployment, performance optimization, Linux server administration, networking, and technical support. I collaborate with cross-functional teams to turn requirements into usable applications.",
+    "availability": ""
+  },
+  "experience": {
+    "exp-1": {
+      "role": "Freelance Roblox Developer",
+      "period": "Sep 2025 — Present",
+      "description": "Developed games and interactive experiences on the Roblox platform as a freelancer."
+    },
+    "exp-2": {
+      "role": "Application Engineer",
+      "period": "Feb 2025 — Sep 2025",
+      "description": "Developed frontend applications using Next.js and backend services using NestJS. Collaborated with cross-functional teams and product managers, integrated data sources, created Jasper Reports, and troubleshot application issues."
+    },
+    "exp-3": {
+      "role": "Freelance Full-Stack Developer",
+      "period": "Jan 2022 — Jan 2025",
+      "description": "Built a Client Request System using Laravel and MySQL, RESTful APIs, and responsive interfaces using Bootstrap and jQuery. Performed testing, debugging, and performance optimization."
+    },
+    "exp-4": {
+      "role": "PHP Developer",
+      "period": "Jan 2023 — Mar 2023",
+      "description": "Developed and deployed applications with PHP and Laravel. Optimized existing application code, performed functional tests, and debugged issues."
+    },
+    "exp-5": {
+      "role": "Full-Stack JavaScript Intern",
+      "period": "Oct 2022 — Dec 2022",
+      "description": "Contributed to internal systems using NestJS, ReactJS, and PostgreSQL. Prepared technical documentation and supported testing and deployment."
+    },
+    "exp-6": {
+      "role": "IT Staff",
+      "period": "Feb 2019 — May 2022",
+      "description": "Managed servers, networks, and workstations. Maintained the company website and internal systems and proposed IT solutions to support operations."
+    }
+  },
+  "education": {
+    "edu-1": {
+      "degree": "Bachelor's Degree in Informatics Engineering",
+      "period": "Sep 2019 — Dec 2023",
+      "detail": "GPA 3.5"
+    }
+  },
+  "skillGroups": {},
+  "projects": {
+    "project-1": {
+      "title": "Client Request System",
+      "category": "Internal System",
+      "summary": "A service request form screen, documented in the original CV.",
+      "description": "A service request form screen, documented in the original CV."
+    },
+    "project-2": {
+      "title": "Operations Dashboard",
+      "category": "Internal System",
+      "summary": "An operational data overview and activity list from the CV.",
+      "description": "An operational data overview and activity list from the CV."
+    },
+    "project-3": {
+      "title": "Product Website",
+      "category": "Website",
+      "summary": "A product information website screen from the CV.",
+      "description": "A product information website screen from the CV."
+    },
+    "project-4": {
+      "title": "Administration Dashboard",
+      "category": "Internal System",
+      "summary": "An application administration screen from the CV.",
+      "description": "An application administration screen from the CV."
+    },
+    "project-5": {
+      "title": "Service Dashboard",
+      "category": "Internal System",
+      "summary": "A service management interface from the CV.",
+      "description": "A service management interface from the CV."
+    },
+    "project-6": {
+      "title": "Healthcare Website",
+      "category": "Website",
+      "summary": "A healthcare services website screen from the CV.",
+      "description": "A healthcare services website screen from the CV."
+    },
+    "project-7": {
+      "title": "Operations Map",
+      "category": "Internal System",
+      "summary": "A map-based application screen from the CV.",
+      "description": "A map-based application screen from the CV."
+    },
+    "project-8": {
+      "title": "Health Benefits Website",
+      "category": "Website",
+      "summary": "A healthcare coverage benefits information page from the CV.",
+      "description": "A healthcare coverage benefits information page from the CV."
+    },
+    "project-9": {
+      "title": "Culinary Website",
+      "category": "Website",
+      "summary": "A culinary website screen from the CV.",
+      "description": "A culinary website screen from the CV."
+    },
+    "project-10": {
+      "title": "Transport Website",
+      "category": "Website",
+      "summary": "A travel and transportation website screen from the CV.",
+      "description": "A travel and transportation website screen from the CV."
+    },
+    "project-11": {
+      "title": "Menu Catalogue",
+      "category": "Website",
+      "summary": "A food and beverage menu catalogue screen from the CV.",
+      "description": "A food and beverage menu catalogue screen from the CV."
+    }
+  },
+  "certificates": {}
+}
