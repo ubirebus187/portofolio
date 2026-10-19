@@ -125,7 +125,9 @@ function EnglishEditor({content,update}:{content:Content;update:(next:Content)=>
       <Field label="Availability (EN, optional)" value={english.profile.availability} onChange={v=>setProfile('availability',v)}/>
     </div>
     {englishSections.map(section=>{
-      const items=english[section] as Array<Record<string,unknown>&{id:string}>;
+      const items = english[section.key] as unknown as Array<
+        Record<string, unknown> & { id: string }
+      >;
       return <section key={section.key} className="english-section"><h2>{section.heading}</h2>{items.length===0&&<p className="english-help">Belum ada item di bagian ini.</p>}
         {items.map(item=><div className="panel editor-panel collection-panel" key={item.id}><h3>{String(item.title||item.role||item.degree||item.institution||item.id)}</h3><div className="field-grid">{section.fields.map(([field,label,multi])=><div key={field} className={multi?'wide-field':''}><Field label={`${label} (EN)`} value={String(item[field]||'')} multiline={multi} onChange={v=>setItem(section.key,item.id,field,v)}/></div>)}</div></div>)}
       </section>;
